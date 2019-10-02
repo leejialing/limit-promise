@@ -1,0 +1,5 @@
+example/
+.gitignore
+.idea
+*.iml
+*.log
