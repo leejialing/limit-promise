@@ -3,6 +3,6 @@
 
 
 limit-promise@latest:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/limit-promise/-/limit-promise-1.0.1.tgz#72a0d133ada97b2b1e112b39b8a24809ba8b25d2"
-  integrity sha512-yObtTArnlbWWNYQ83mmKmMpcqguoGIkS0/84bkxXe1MFXEgmZ70cxN9BuGAVKN8LMbIzGRE7OiXF8LFjwiniUA==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/limit-promise/-/limit-promise-1.0.3.tgz#c51a886d5c9b160b79ed5828ba0aaa563db671a0"
+  integrity sha512-0Kc7cFDbt3dZJF84/Zrk7YZMqUbvnfVjA1fI/aLSUo3ay0VnPY7uDyLIJRK8W3C4lN2atGzF9wWnal80ORVgfw==
