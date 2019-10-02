@@ -1,4 +1,8 @@
 # limit promise
+EN:  
+Run multiple promise-returning & async functions with limited concurrency
+
+CN:  
 Promise执行数量控制，即"并发"控制（众所周知js是单线程，并不存在真正的并发，只是形象说明才这么称呼的）。
 
 应用场景如：控制异步请求的数量。
@@ -10,7 +14,7 @@ or
 `yarn add limit-promise`
 
 ## Tip
-
+EN:  
 Make sure that the function you want to execute is:
 * returns a Promise that matches the Promise criteria
 * async function
@@ -18,7 +22,7 @@ Make sure that the function you want to execute is:
 
 If it doesn't meet the standard, please adapt yourself
 
-
+CN:  
 确保需要执行的函数是：
 * 返回一个符合Promise标准的promise
 * async函数
