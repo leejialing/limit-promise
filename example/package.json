@@ -9,6 +9,6 @@
   "author": "jialing lee",
   "license": "MIT",
   "dependencies": {
-    "limit-promise": "latest"
+    "limit-promise": "^1.0.6"
   }
 }

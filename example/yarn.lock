@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-limit-promise@latest:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/limit-promise/-/limit-promise-1.0.3.tgz#c51a886d5c9b160b79ed5828ba0aaa563db671a0"
-  integrity sha512-0Kc7cFDbt3dZJF84/Zrk7YZMqUbvnfVjA1fI/aLSUo3ay0VnPY7uDyLIJRK8W3C4lN2atGzF9wWnal80ORVgfw==
+limit-promise@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/limit-promise/-/limit-promise-1.0.6.tgz#88d768585c1bec975b686f9c1f90635076444ec0"
+  integrity sha512-jvNHctXG7ClagHJvUR/ibjCGFI4+NT2mqoq1htKyvRkhNosOzeJia9j87qrzuzbXChSgu0IhEcP7OSdnbGe4Pg==
