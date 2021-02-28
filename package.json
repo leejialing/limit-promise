@@ -1,6 +1,6 @@
 {
   "name": "limit-promise",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "run promise or async-function with limited concurrency",
   "main": "index.js",
   "scripts": {
@@ -25,9 +25,5 @@
   "homepage": "https://github.com/leejialing/limit-promise#readme",
   "devDependencies": {},
   "dependencies": {
-  },
-  "engines": {
-    "node": ">=10.8.0",
-    "npm": ">=6.2.0"
   }
 }
